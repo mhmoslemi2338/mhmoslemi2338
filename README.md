@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**mhmoslemi2338/mhmoslemi2338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--- **mhmoslemi2338/mhmoslemi2338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=mhmoslemi2338&show_icons=true)](https://github.com/mhmoslemi2338/mhmoslemi2338)
+
+
+- 🌱 I’m currently learning about computer vision and English
+- 👯 I’m looking to collaborate on computer vision or signal processing projects
+- 📫 How to reach me: [Telegram](https://t.me/mohammad_moslemi0), [Twitter](https://twitter.com/somerandomcharr)
+- 😄 Hobbies : watching movies and outdoor running. 
+
+
+
+
+
