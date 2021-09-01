@@ -6,7 +6,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=mhmoslemi2338&show_icons=true)](https://github.com/mhmoslemi2338/mhmoslemi2338)
 
 
-- 🌱 I’m currently learning about computer vision and English
+- 🌱 I’m currently learning about computer vision and Signal processing
 - 👯 I’m looking to collaborate on computer vision or signal processing projects
 - 📫 How to reach me: [Telegram](https://t.me/mohammad_moslemi0), [Twitter](https://twitter.com/somerandomcharr)
 - 😄 Hobbies : watching movies and outdoor running. 
