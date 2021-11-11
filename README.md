@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning about computer vision and Signal processing
 - 👯 I’m looking to collaborate on computer vision or signal processing projects
-- 📫 How to reach me: [Telegram](https://t.me/mohammad_moslemi0), [Twitter](https://twitter.com/somerandomcharr)
+- 📫 How to reach me: [Email](mailto:mhmoslemi2338@gmail.com) [Telegram](https://t.me/mohammad_moslemi0), [Twitter](https://twitter.com/somerandomcharr) 
 - 😄 Hobbies : watching movies and outdoor running. 
 
 
