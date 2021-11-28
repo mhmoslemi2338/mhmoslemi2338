@@ -37,12 +37,12 @@ Feel free contacting me via the following links:
         <a href="https://www.linkedin.com/in/mohammad-hosein-moslemi/">
             <img src="https://img.icons8.com/color/50/000000/linkedin.png" width=32/>
         </a>
-        <a href="https://www.instagram.com/mohammadh.moslemi/">
+      <!---  <a href="https://www.instagram.com/mohammadh.moslemi/">
             <img src="https://img.icons8.com/fluency/50/000000/instagram-new.png" width=32/>
         </a>
         <a href="https://twitter.com/mh_moslemi">
             <img src="https://img.icons8.com/color/50/000000/twitter.png" width=32/>
-    <!---    <a href="https://salimiahmad.ir/">
+        <a href="https://salimiahmad.ir/">
             <img src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=32/>
         </a> --->
 </div>
