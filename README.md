@@ -37,9 +37,6 @@ Feel free contacting me via the following links:
         <a href="https://www.linkedin.com/in/mohammad-hosein-moslemi/">
             <img src="https://img.icons8.com/color/50/000000/linkedin.png" width=32/>
         </a>
-    
-
-    
       <!---  <a href="https://www.instagram.com/mohammadh.moslemi/">
             <img src="https://img.icons8.com/fluency/50/000000/instagram-new.png" width=32/>
         </a>
@@ -55,5 +52,4 @@ Feel free contacting me via the following links:
 <img src="https://visitor-badge.glitch.me/badge?page_id=mhmoslemi2338/mhmoslemi2338">
 
 </p>
-
 --->
