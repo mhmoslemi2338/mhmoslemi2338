@@ -2,7 +2,7 @@
 
 I'm passionate about **responsible AI** and **fairness in data management**, focusing on applying **optimal transport** to remove bias from decision-making systems. My work spans from **entity matching** to ensuring fairness through **post-processing calibration** and developing innovative fairness metrics. I hold a **Master's degree in Computer Science** from **Western University** and a **Bachelor's degree in Electrical Engineering** from **Sharif University**. My research primarily revolves around **machine learning**, **AI fairness**, and **entity resolution**.
 
-When I'm not working on research, I enjoy **bouldering** and exploring **physical therapy** techniques for recovery. 
+When I'm not working on research, I enjoy **bouldering**.
 
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
