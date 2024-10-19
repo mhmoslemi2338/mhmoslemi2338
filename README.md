@@ -26,7 +26,5 @@ Feel free to contact me via the following links:
     <a href="https://www.linkedin.com/in/mohammad-hosein-moslemi/">
         <img src="https://img.icons8.com/color/50/000000/linkedin.png" width=32/>
     </a>
-    <a href="https://scholar.google.ca/citations?user=vfufSS0AAAAJ&hl=en">
-        <img src="https://img.icons8.com/fluency/50/000000/google-scholar.png" width=32/>
-    </a>
+    <a href="https://scholar.google.ca/citations?user=vfufSS0AAAAJ&hl=en">Google Scholar</a>
 </div>
