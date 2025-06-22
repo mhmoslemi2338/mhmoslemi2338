@@ -12,7 +12,7 @@ I'm especially interested in **research and R&D roles** related to **Responsible
 
 **Open to collaborations and opportunities** across academia, industry labs, and applied science teams.
 
-
+<!-- 
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td>
@@ -23,6 +23,8 @@ I'm especially interested in **research and R&D roles** related to **Responsible
         </td>
     </tr>
 </table>
+-->
+
 
 ## Contact Me
 
