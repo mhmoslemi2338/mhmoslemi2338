@@ -10,7 +10,7 @@
 ---
 
 ### 🔍 What I do
-- **Research** at the intersection of **Fair ML**, **Data Science**, and **Causality**—with an emphasis on building trustworthy, bias-aware systems.
+- **Research** at the intersection of **Fair ML**, **Data Management**, and **Causality**—with an emphasis on building trustworthy, bias-aware systems.
 - Publish & present: <br>
   <a href="https://dl.acm.org/doi/10.1145/3654963">SIGMOD 2024</a> ·
   <a href="https://ieeexplore.ieee.org/document/10825531">IEEE Big Data 2024</a> ·
