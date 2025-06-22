@@ -1,4 +1,4 @@
-## Hey this is Mohammad-Hossein! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey this is Mohammad Hossein! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm a **machine learning researcher** passionate about building **fair, equitable, and trustworthy AI systems**.  
 My recent work focuses on **fairness in data integration and data cleaning** using **optimal transport** and **causality**, with publications at **SIGMOD 2024**, **IEEE Big Data 2024**, and the **GUIDE-AI workshop at SIGMOD**.  
@@ -28,7 +28,7 @@ I'm especially interested in **research and R&D roles** related to **Responsible
 Feel free to contact me via the following links:
 
 <div align="center">
-    <a href="mailto:mohammad.moslemi@uwo.ca">
+    <a href="mailto:mhmoslemi2338@gmail.com">
         <img src="https://img.icons8.com/color/50/000000/gmail.png" width=32/>
     </a>
     <a href="https://www.linkedin.com/in/mohammad-hosein-moslemi/">
