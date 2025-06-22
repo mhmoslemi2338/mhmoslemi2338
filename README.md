@@ -1,8 +1,16 @@
 ## Hey this is Mohammad-Hossein! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm passionate about **responsible AI** and **fairness in data management**, focusing on applying **optimal transport** to remove bias from decision-making systems. My work spans from **entity matching** to ensuring fairness through **post-processing calibration** and developing innovative fairness metrics. I hold a **Master's degree in Computer Science** from **Western University** and a **Bachelor's degree in Electrical Engineering** from **Sharif University**. My research primarily revolves around **machine learning**, **AI fairness**, and **entity resolution**.
+I'm a **machine learning researcher** passionate about building **fair, equitable, and trustworthy AI systems**.  
+My recent work focuses on **fairness in data integration and data cleaning** using **optimal transport** and **causality**, with publications at **SIGMOD 2024**, **IEEE Big Data 2024**, and the **GUIDE-AI workshop at SIGMOD**.  
+I’ve also submitted work to the **IEEE Transactions on Knowledge and Data Engineering (TKDE)**.  
+I enjoy bridging **theory and practice**—particularly in **bias removal**, **optimization**, and **data science**.
 
-When I'm not working on research, I enjoy **bouldering**.
+I hold an **M.Sc. in Computer Science** from **Western University**, where I served as both a **Research Assistant** and **Teaching Assistant**,  
+and a **B.Sc. in Electrical Engineering** from **Sharif University**, where I conducted research on **biomedical imaging using graph signal processing**.
+
+I'm especially interested in **research and R&D roles** related to **Responsible AI**, **fairness**, **optimization**, and **data-centric machine learning**.  
+**Open to collaborations and opportunities** across academia, industry labs, and applied science teams.
+
 
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
