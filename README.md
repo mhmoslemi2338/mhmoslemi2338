@@ -20,7 +20,7 @@
 
 
 ### 🎓 Background
-- **M.Sc. Computer Science, Western University** (Research & Teaching Assistant)  
+- **M.Sc. Computer Science, Western University, Canada** (Research & Teaching Assistant)  
 - **B.Sc. Electrical Engineering, Sharif University** (Biomedical imaging via Graph Signal processing; Wav2Vec2 ASR project)
 
 ### 🚀 Featured repos
