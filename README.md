@@ -48,7 +48,8 @@
 
 ### 📫 Contact
 - Email: *mhmoslemi2338 (at) gmail dot com*  
-- DM on <a href="https://www.linkedin.com/in/mohammad-hossein-moslemi">LinkedIn</a>
+- DM on <a href="https://www.linkedin.com/in/mohammad-hosein-moslemi/">LinkedIn</a>
+
 
 <!-- 
 ---
