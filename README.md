@@ -2,7 +2,8 @@
 
 <p align="center">
   <strong>Fair ML & Responsible AI Researcher | Data Scientist | M.Sc. CS, Western University</strong><br>
-  London, ON  ·  <a href="https://orcid.org/0009-0002-0278-4665">ORCID</a>  ·  <a href="https://www.linkedin.com/in/mohammad-hosein-moslemi/">LinkedIn</a>
+  London, ON  ·  <a href="https://orcid.org/0009-0002-0278-4665">ORCID</a>  ·  <a href="https://www.linkedin.com/in/mohammad-hosein-moslemi/">LinkedIn</a> ·  <a href="https://scholar.google.ca/citations?user=vfufSS0AAAAJ&hl=en">Google Scholar
+</a>
 </p>
 
 
