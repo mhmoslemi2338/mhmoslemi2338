@@ -9,6 +9,7 @@ I hold an **M.Sc. in Computer Science** from **Western University**, where I ser
 and a **B.Sc. in Electrical Engineering** from **Sharif University**, where I conducted research on **biomedical imaging using graph signal processing**.
 
 I'm especially interested in **research and R&D roles** related to **Responsible AI**, **fairness**, **optimization**, and **data-centric machine learning**.  
+
 **Open to collaborations and opportunities** across academia, industry labs, and applied science teams.
 
 
