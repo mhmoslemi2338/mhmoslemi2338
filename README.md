@@ -1,22 +1,22 @@
 <h1 align="center">Hey there — I’m Mohammad Hossein! 👋</h1>
 
 <p align="center">
-  <strong>Fair ML & Responsible AI Researcher | Data Scientist | M.Sc. CS, Western University</strong><br>
+  <strong>Trustworthy Machine Learning Researcher | Data Scientist | M.Sc. Computer Science, Western University</strong><br>
   London, ON  ·  <a href="https://orcid.org/0009-0002-0278-4665">ORCID</a>  ·  <a href="https://www.linkedin.com/in/mohammad-hosein-moslemi/">LinkedIn</a> ·  <a href="https://scholar.google.ca/citations?user=vfufSS0AAAAJ&hl=en">Google Scholar
 </a>
 </p>
-
-
+<!-- (fairness, robustness, etc)  -->
+<!--  I am interested in developing  -->
 
 ---
 
 ### 🔍 What I do
-- **Research** at the intersection of **Fair ML**, **Data Management**, and **Causality**—with an emphasis on building trustworthy and bias-aware systems.
+- **Research** at the intersection of **Trustworthy ML**, **Data Management**, and **Causality**—with an emphasis on building fair AI systems.
 - Publish & present: <br>
   <a href="https://dl.acm.org/doi/10.1145/3654963">SIGMOD 2024</a> ·
   <a href="https://ieeexplore.ieee.org/document/10825531">IEEE Big Data 2024</a> ·
   <a href="https://doi.org/10.1145/3665601.3669845">GUIDE-AI @ SIGMOD 2024</a>  
-- Bridge **theory ↔ practice** in bias removal, equitable-AI, and data cleaning
+- Bridge **theory ↔ practice** in bias removal, equitable AI, and data cleaning
 
 
 
