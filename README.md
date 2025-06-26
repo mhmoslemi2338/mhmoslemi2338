@@ -30,7 +30,7 @@
 | IEEE Big Data 2024 · *Evaluating Blocking Biases in Entity Matching* | **[`pre-EM-bias`](https://github.com/mhmoslemi2338/pre-EM-bias)** |
 | SIGMOD 2024 · *OTClean* | *(Repo coming soon)* |
 | GUIDE-AI 2024 · *Threshold-Independent Fair Matching* | **[`CaliFair-EM`](https://github.com/mhmoslemi2338/CaliFair-EM)** |
-| Pre-print · *Mitigating Matching Biases Through Score Calibration* | **[`sigmod-FAIR-EM-post-process`](https://github.com/mhmoslemi2338/sigmod-FAIR-EM-post-process)** |
+| Pre-print · *Reducing Biases in Record Matching through Scores Calibration* | **[`sigmod-FAIR-EM-post-process`](https://github.com/mhmoslemi2338/sigmod-FAIR-EM-post-process)** |
 
 
 ### 🤝 Open to
